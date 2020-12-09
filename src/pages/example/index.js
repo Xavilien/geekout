@@ -23,8 +23,12 @@ function Example() {
         <div className="container">
           <h1>Welcome to Example</h1>
           <p>
+<<<<<<< HEAD
             Yo, we are in example page.
             Wow!!
+=======
+            Yo, we are in example page
+>>>>>>> 63c39a382e238da2d14b987261f9bc44181a4dfe
           </p>
         </div>
       </section>
